@@ -1,0 +1,19 @@
+{
+  "name": "spike_ui_overview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All tests are passing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grosa-mdsol/spike_ui_overview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grosa-mdsol/spike_ui_overview/issues"
+  },
+  "homepage": "https://github.com/grosa-mdsol/spike_ui_overview#readme"
+}
