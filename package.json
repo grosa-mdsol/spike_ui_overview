@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/grosa-mdsol/spike_ui_overview/issues"
   },
-  "homepage": "https://github.com/grosa-mdsol/spike_ui_overview#readme"
+  "homepage": "https://github.com/grosa-mdsol/spike_ui_overview#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "shelljs": "^0.8.2"
+  }
 }
